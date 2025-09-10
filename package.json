@@ -1,0 +1,19 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord avec système de tickets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "bot", "tickets"],
+  "author": "Votre nom",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
